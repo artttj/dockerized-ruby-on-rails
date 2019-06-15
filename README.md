@@ -14,7 +14,7 @@ Run application:
 
 ```docker-compose up -d```
 
-Open **localhost:3000** in your browser.
+Open **http://localhost:3000** in your browser.
 
 ## Migrations
 
