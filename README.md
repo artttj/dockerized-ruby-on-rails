@@ -1,6 +1,15 @@
 # README
 
+## Rails info
+
+Rails version: 5.2.3
+
+Ruby version: 2.5.5 (x86_64-linux)
+
 ## Getting started
+
+Install Docker:
+https://docs.docker.com/compose/install/
 
 Build images:
 
@@ -35,7 +44,7 @@ Open **http://localhost:5050**
 
 ---
 
-Create New Server:
+*Quick Links -> Add New Server*
 
 ```host: db```
 
