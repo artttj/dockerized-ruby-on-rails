@@ -11,17 +11,16 @@ Ruby version: 2.5.5 (x86_64-linux)
 Install Docker:
 https://docs.docker.com/compose/install/
 
-Build images:
+Build images and run application:
 
-```docker-compose build```
+```docker-compose up -d```
+
+Wait for a few seconds until the server starts.
 
 Create database:
 
 ```docker-compose run web rake db:create```
 
-Run application:
-
-```docker-compose up -d```
 
 Open **http://localhost:3000** in your browser.
 
